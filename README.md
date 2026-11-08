@@ -6,6 +6,33 @@ StickyNotes هو تطبيق ملاحظات لسطح مكتب Windows، يتيح 
 
 صُمم التطبيق ليكون بسيطًا وعمليًا، مع إمكانية تخصيص مظهر بطاقات الملاحظات وحجم النص، ودعم اللغتين العربية والإنجليزية.
 
+---
+## 📥 تحميل البرنامج
+
+<p align="center">
+
+  <a href="https://github.com/sami-twj/StickyNotes-Releases/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD-STICKYNOTES-2E8B57?style=for-the-badge&logo=windows&logoColor=white" alt="Download StickyNotes" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/sami-twj/StickyNotes-Releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/sami-twj/StickyNotes-Releases?label=Latest%20Version&style=flat" alt="Latest Version" />
+  </a>
+
+</p>
+
+**اضغط على زر التحميل أعلاه للانتقال إلى صفحة تنزيل أحدث إصدار من البرنامج.**
+
+يتوفر StickyNotes بنسختين:
+
+- **Installer:** تثبيت البرنامج على Windows بالطريقة المعتادة.
+- **Portable:** تشغيل البرنامج مباشرة دون الحاجة إلى تثبيت تقليدي.
+
+[**➡️ الانتقال إلى صفحة تحميل البرنامج**](https://github.com/sami-twj/StickyNotes-Releases/releases/latest)
+---
+
 ## ✨ المميزات
 
 - **ملاحظات سطح المكتب:** إنشاء بطاقات ملاحظات مستقلة تظهر مباشرة على سطح المكتب.
@@ -16,24 +43,14 @@ StickyNotes هو تطبيق ملاحظات لسطح مكتب Windows، يتيح 
 - **إدارة التحديثات:** إمكانية تنزيل التحديث أو تأجيله أو تخطي إصدار معين.
 - **سهولة الاستخدام:** واجهة واضحة وإعدادات منظمة.
 
-## 📥 التحميل
-
-يتوفر StickyNotes بصيغتين:
-
-| النسخة | الوصف |
-|---|---|
-| **Installer** | تثبيت البرنامج على Windows بالطريقة المعتادة. |
-| **Portable** | تشغيل البرنامج مباشرة دون الحاجة إلى تثبيت تقليدي. |
-
-انتقل إلى صفحة [Releases](https://github.com/sami-twj/StickyNotes-Releases/releases) لتحميل أحدث إصدار.
-
 ## 🚀 طريقة الاستخدام
 
-1. حمّل النسخة المناسبة لك من صفحة Releases.
-2. إذا اخترت Installer، شغّل ملف التثبيت واتبع التعليمات.
-3. إذا اخترت Portable، شغّل الملف التنفيذي مباشرة.
-4. افتح StickyNotes وابدأ بإنشاء بطاقات الملاحظات.
-5. خصّص مظهر البطاقات وحجم النص من الإعدادات.
+1. اضغط على زر التحميل أعلاه.
+2. اختر النسخة المناسبة لك من صفحة Releases.
+3. إذا اخترت Installer، شغّل ملف التثبيت واتبع التعليمات.
+4. إذا اخترت Portable، شغّل الملف التنفيذي مباشرة.
+5. افتح StickyNotes وابدأ بإنشاء بطاقات الملاحظات.
+6. خصّص مظهر البطاقات وحجم النص من الإعدادات.
 
 ## ⚙️ الإعدادات والتخصيص
 
@@ -54,11 +71,10 @@ StickyNotes هو تطبيق ملاحظات لسطح مكتب Windows، يتيح 
 
 تم تصميم StickyNotes كتطبيق سطح مكتب، وتُحفظ بيانات التطبيق محليًا على جهازك.
 
-لا يُعلن هذا المشروع عن توفير مزامنة سحابية أو تخزين عبر الإنترنت.
+لا يوفر المشروع مزامنة سحابية أو تخزينًا عبر الإنترنت.
 
-## 📋 معلومات الإصدار
+## 📋 معلومات البرنامج
 
-- **الإصدار:** 1.3.7
 - **النظام:** Windows
 - **المعمارية:** x64
 - **اللغات:** العربية والإنجليزية
@@ -74,6 +90,29 @@ StickyNotes is a Windows desktop note-taking application that lets you create in
 
 It is designed to be simple and practical, with customizable note card appearance, adjustable text size, and support for both Arabic and English.
 
+---
+
+## 📥 Download StickyNotes
+
+<p align="center">
+  <a href="https://github.com/sami-twj/StickyNotes-Releases/releases/latest">
+    <img src="https://img.shields.io/badge/⬇_CLICK_HERE_TO_DOWNLOAD-2E8B57?style=for-the-badge&logo=windows&logoColor=white" alt="Download StickyNotes" />
+  </a>
+  <br/>
+  <a href="https://github.com/sami-twj/StickyNotes-Releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/sami-twj/StickyNotes-Releases?label=Latest%20Version&style=flat" alt="Latest Version" />
+  </a>
+</p>
+
+Visit the download page to get the latest version of StickyNotes and choose the edition that suits your needs:
+
+- **Installer:** Install the application on Windows using the standard installation process.
+- **Portable:** Run the application directly without a traditional installation.
+
+[**➡️ Go to the Download Page**](https://github.com/sami-twj/StickyNotes-Releases/releases/latest)
+
+---
+
 ## ✨ Features
 
 - **Desktop Notes:** Create independent note cards displayed directly on your desktop.
@@ -84,24 +123,14 @@ It is designed to be simple and practical, with customizable note card appearanc
 - **Update Controls:** Download an update, postpone it, or skip a specific version.
 - **Simple Interface:** A clear interface with organized settings.
 
-## 📥 Download
-
-StickyNotes is available in two formats:
-
-| Edition | Description |
-|---|---|
-| **Installer** | Install the application on Windows using the standard installation process. |
-| **Portable** | Run the application directly without a traditional installation. |
-
-Visit the [Releases](https://github.com/sami-twj/StickyNotes-Releases/releases) page to download the latest version.
-
 ## 🚀 Getting Started
 
-1. Download your preferred edition from the Releases page.
-2. If you downloaded the Installer, run it and follow the setup instructions.
-3. If you downloaded the Portable edition, run the executable directly.
-4. Open StickyNotes and start creating note cards.
-5. Customize the card appearance and text size in Settings.
+1. Click the download button above.
+2. Choose your preferred edition from the Releases page.
+3. If you downloaded the Installer, run it and follow the setup instructions.
+4. If you downloaded the Portable edition, run the executable directly.
+5. Open StickyNotes and start creating note cards.
+6. Customize the card appearance and text size in Settings.
 
 ## ⚙️ Settings and Customization
 
@@ -122,11 +151,10 @@ Release information and update notes are displayed in the update window.
 
 StickyNotes is designed as a desktop application, and its application data is stored locally on your device.
 
-This project does not advertise cloud synchronization or online storage.
+The project does not provide cloud synchronization or online storage.
 
-## 📋 Release Information
+## 📋 Application Information
 
-- **Version:** 1.3.7
 - **Platform:** Windows
 - **Architecture:** x64
 - **Languages:** Arabic and English
