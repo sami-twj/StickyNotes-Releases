@@ -72,12 +72,35 @@
 
 ## 🚀 طريقة الاستخدام
 
-1. اضغط على زر التحميل أعلاه.
-2. اختر النسخة المناسبة لك من صفحة Releases.
-3. إذا اخترت Installer، شغّل ملف التثبيت واتبع التعليمات.
-4. إذا اخترت Portable، شغّل الملف التنفيذي مباشرة.
-5. افتح StickyNotes وابدأ بإنشاء بطاقات الملاحظات.
-6. خصّص مظهر البطاقات وحجم النص من الإعدادات.
+<div dir="rtl" align="right">
+
+<h3>1. اضغط على زر التحميل أعلاه.</h3>
+
+<h3>2. اختر النسخة المناسبة لك من صفحة Releases.</h3>
+
+<h3>نسخة التثبيت (المثبتة على الجهاز)</h3>
+
+<h3>تثبّت التطبيق على جهازك مثل أي برنامج عادي. مناسبة إذا كنت تريد استخدام StickyNotes بشكل دائم، مع إمكانية تشغيله من قائمة ابدأ أو اختصار سطح المكتب.</h3>
+
+<h3>اسم الملف: <code dir="ltr">StickyNotes-Setup.exe</code></h3>
+
+<h3>النسخة المحمولة (بدون تثبيت)</h3>
+
+<h3>لا تحتاج إلى تثبيت؛ فقط شغّل الملف التنفيذي مباشرة. مناسبة إذا كنت تفضّل تشغيل التطبيق دون تثبيت أو الاحتفاظ بملفه في مجلد تختاره.</h3>
+
+<h3>اسم الملف: <code dir="ltr">StickyNotes-Portable.exe</code></h3>
+
+<h3>3. إذا اخترت نسخة التثبيت، شغّل ملف التثبيت واتبع التعليمات.</h3>
+
+<h3>4. إذا اخترت النسخة المحمولة، شغّل الملف التنفيذي مباشرة.</h3>
+
+<h3>5. افتح StickyNotes وابدأ بإنشاء بطاقات الملاحظات.</h3>
+
+<h3>6. خصّص مظهر البطاقات وحجم النص من الإعدادات.</h3>
+
+<h3>ملاحظة: ملاحظاتك وإعداداتك تُحفظ في مجلد بيانات المستخدم على الجهاز، وليس بجانب ملف النسخة المحمولة.</h3>
+
+</div>
 
 ## ⚙️ الإعدادات والتخصيص
 
@@ -154,14 +177,37 @@ Visit the download page to get the latest version of StickyNotes and choose the 
 - **Update Controls:** Download an update, postpone it, or skip a specific version.
 - **Simple Interface:** A clear interface with organized settings.
 
-## 🚀 Getting Started
+## 🚀 How to Use
 
-1. Click the download button above.
-2. Choose your preferred edition from the Releases page.
-3. If you downloaded the Installer, run it and follow the setup instructions.
-4. If you downloaded the Portable edition, run the executable directly.
-5. Open StickyNotes and start creating note cards.
-6. Customize the card appearance and text size in Settings.
+<div dir="ltr" align="left">
+
+<h3>1. Click the download button above.</h3>
+
+<h3>2. Choose the version that suits your needs from the Releases page.</h3>
+
+<h3>Installer (Installed Version)</h3>
+
+<h3>Installs the application on your computer like a regular Windows program. Recommended if you plan to use StickyNotes regularly, with access through the Start menu or a desktop shortcut.</h3>
+
+<h3>File name: <code dir="ltr">StickyNotes-Setup.exe</code></h3>
+
+<h3>Portable (No Installation Required)</h3>
+
+<h3>Does not require installation. Simply run the executable file. Ideal if you prefer not to install the application or want to keep its file in a folder of your choice.</h3>
+
+<h3>File name: <code dir="ltr">StickyNotes-Portable.exe</code></h3>
+
+<h3>3. If you chose Installer, run the setup file and follow the instructions.</h3>
+
+<h3>4. If you chose Portable, run the executable file directly.</h3>
+
+<h3>5. Open StickyNotes and start creating note cards.</h3>
+
+<h3>6. Customize the cards' appearance and text size from Settings.</h3>
+
+<h3>Note: Your notes and settings are stored in your Windows user data folder, not alongside the Portable executable file.</h3>
+
+</div>
 
 ## ⚙️ Settings and Customization
 
