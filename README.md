@@ -1,10 +1,10 @@
-# StickyNotes
+# StickyNotes ملاحظات لاصقة
 
 <h2 align="center">ملاحظاتك على سطح المكتب، بطريقة بسيطة ومنظمة.</h2>
 
 <p align="center">
   <strong>
-    StickyNotes هو تطبيق ملاحظات لسطح مكتب Windows، يتيح لك إنشاء بطاقات ملاحظات مستقلة ووضعها على سطح المكتب للوصول السريع إلى أفكارك ومعلوماتك ومهامك اليومية.
+     هو تطبيق ملاحظات لسطح مكتب وندوز ، يتيح لك إنشاء بطاقات ملاحظات مستقلة ووضعها على سطح المكتب للوصول السريع إلى أفكارك ومعلوماتك ومهامك اليومية. 
   </strong>
 </p>
 
@@ -53,7 +53,7 @@
 
 يتوفر StickyNotes بنسختين:
 
-- **Installer:** تثبيت البرنامج على Windows بالطريقة المعتادة.
+- **Installer:** تثبيت البرنامج على وندوز بالطريقة المعتادة.
 - **Portable:** تشغيل البرنامج مباشرة دون الحاجة إلى تثبيت تقليدي.
 
 [**➡️ الانتقال إلى صفحة تحميل البرنامج**](https://github.com/sami-twj/StickyNotes-Releases/releases/latest)
@@ -70,6 +70,8 @@
 - **إدارة التحديثات:** إمكانية تنزيل التحديث أو تأجيله أو تخطي إصدار معين.
 - **سهولة الاستخدام:** واجهة واضحة وإعدادات منظمة.
 
+
+</br></br>
 ## 🚀 طريقة الاستخدام
 
 <div dir="rtl" align="right">
@@ -80,15 +82,15 @@
 
 <h3>نسخة التثبيت (المثبتة على الجهاز)</h3>
 
-<h3>تثبّت التطبيق على جهازك مثل أي برنامج عادي. مناسبة إذا كنت تريد استخدام StickyNotes بشكل دائم، مع إمكانية تشغيله من قائمة ابدأ أو اختصار سطح المكتب.</h3>
+تثبّت التطبيق على جهازك مثل أي برنامج عادي. مناسبة إذا كنت تريد استخدام StickyNotes بشكل دائم، مع إمكانية تشغيله من قائمة ابدأ أو اختصار سطح المكتب.
 
-<h3>اسم الملف: <code dir="ltr">StickyNotes-Setup.exe</code></h3>
+اسم الملف: <code dir="ltr">StickyNotes-Setup.exe</code></br>
 
 <h3>النسخة المحمولة (بدون تثبيت)</h3>
 
-<h3>لا تحتاج إلى تثبيت؛ فقط شغّل الملف التنفيذي مباشرة. مناسبة إذا كنت تفضّل تشغيل التطبيق دون تثبيت أو الاحتفاظ بملفه في مجلد تختاره.</h3>
+لا تحتاج إلى تثبيت؛ فقط شغّل الملف التنفيذي مباشرة. مناسبة إذا كنت تفضّل تشغيل التطبيق دون تثبيت والاحتفاظ بملفه في مجلد تختاره.
 
-<h3>اسم الملف: <code dir="ltr">StickyNotes-Portable.exe</code></h3>
+اسم الملف: <code dir="ltr">StickyNotes-Portable.exe</code>
 
 <h3>3. إذا اخترت نسخة التثبيت، شغّل ملف التثبيت واتبع التعليمات.</h3>
 
@@ -98,7 +100,7 @@
 
 <h3>6. خصّص مظهر البطاقات وحجم النص من الإعدادات.</h3>
 
-<h3>ملاحظة: ملاحظاتك وإعداداتك تُحفظ في مجلد بيانات المستخدم على الجهاز، وليس بجانب ملف النسخة المحمولة.</h3>
+ملاحظة: ملاحظاتك وإعداداتك تُحفظ في مجلد بيانات المستخدم على الجهاز، وليس بجانب ملف النسخة المحمولة.
 
 </div>
 
@@ -181,21 +183,21 @@ Visit the download page to get the latest version of StickyNotes and choose the 
 
 <div dir="ltr" align="left">
 
-<h3>1. Click the download button above.</h3>
+1. Click the download button above.
 
-<h3>2. Choose the version that suits your needs from the Releases page.</h3>
+2. Choose the version that suits your needs from the Releases page.
 
 <h3>Installer (Installed Version)</h3>
 
-<h3>Installs the application on your computer like a regular Windows program. Recommended if you plan to use StickyNotes regularly, with access through the Start menu or a desktop shortcut.</h3>
+Installs the application on your computer like a regular Windows program. Recommended if you plan to use StickyNotes regularly, with access through the Start menu or a desktop shortcut.
 
-<h3>File name: <code dir="ltr">StickyNotes-Setup.exe</code></h3>
+File name: <code dir="ltr">StickyNotes-Setup.exe</code>
 
 <h3>Portable (No Installation Required)</h3>
 
-<h3>Does not require installation. Simply run the executable file. Ideal if you prefer not to install the application or want to keep its file in a folder of your choice.</h3>
+Does not require installation. Simply run the executable file. Ideal if you prefer not to install the application or want to keep its file in a folder of your choice.
 
-<h3>File name: <code dir="ltr">StickyNotes-Portable.exe</code></h3>
+File name: <code dir="ltr">StickyNotes-Portable.exe</code>
 
 <h3>3. If you chose Installer, run the setup file and follow the instructions.</h3>
 
@@ -205,7 +207,7 @@ Visit the download page to get the latest version of StickyNotes and choose the 
 
 <h3>6. Customize the cards' appearance and text size from Settings.</h3>
 
-<h3>Note: Your notes and settings are stored in your Windows user data folder, not alongside the Portable executable file.</h3>
+Note: Your notes and settings are stored in your Windows user data folder, not alongside the Portable executable file.
 
 </div>
 
