@@ -1,12 +1,38 @@
 # StickyNotes
 
-**ملاحظاتك على سطح المكتب، بطريقة بسيطة ومنظمة.**
+<h2 align="center">ملاحظاتك على سطح المكتب، بطريقة بسيطة ومنظمة.</h2>
 
-StickyNotes هو تطبيق ملاحظات لسطح مكتب Windows، يتيح لك إنشاء بطاقات ملاحظات مستقلة ووضعها على سطح المكتب للوصول السريع إلى أفكارك ومعلوماتك ومهامك اليومية.
+<p align="center">
+  <strong>
+    StickyNotes هو تطبيق ملاحظات لسطح مكتب Windows، يتيح لك إنشاء بطاقات ملاحظات مستقلة ووضعها على سطح المكتب للوصول السريع إلى أفكارك ومعلوماتك ومهامك اليومية.
+  </strong>
+</p>
+
+## 📸 لقطات من البرنامج
+
+<p align="center">
+  <img src="screenshots/00-board.png" width="750" alt="Main Interface">
+  <br>
+  <strong>الواجهة الرئيسية</strong>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/06-settings.png" width="75%" alt="Settings">
+      <br><strong>الإعدادات</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/05d-editor-rtl-right.png" width="75%" alt="Customization">
+      <br><strong>تخصيص الملاحظات</strong>
+    </td>
+  </tr>
+</table>
 
 صُمم التطبيق ليكون بسيطًا وعمليًا، مع إمكانية تخصيص مظهر بطاقات الملاحظات وحجم النص، ودعم اللغتين العربية والإنجليزية.
 
 ---
+
 ## 📥 تحميل البرنامج
 
 <p align="center">
@@ -31,6 +57,7 @@ StickyNotes هو تطبيق ملاحظات لسطح مكتب Windows، يتيح 
 - **Portable:** تشغيل البرنامج مباشرة دون الحاجة إلى تثبيت تقليدي.
 
 [**➡️ الانتقال إلى صفحة تحميل البرنامج**](https://github.com/sami-twj/StickyNotes-Releases/releases/latest)
+
 ---
 
 ## ✨ المميزات
@@ -84,9 +111,13 @@ StickyNotes هو تطبيق ملاحظات لسطح مكتب Windows، يتيح 
 
 # StickyNotes (English)
 
-**Your desktop notes, simple and organized.**
+<h2 align="center">Your desktop notes, simple and organized.</h2>
 
-StickyNotes is a Windows desktop note-taking application that lets you create independent note cards directly on your desktop, giving you quick access to your ideas, information, and everyday tasks.
+<p align="center">
+  <strong>
+    StickyNotes is a Windows desktop note-taking application that lets you create independent note cards directly on your desktop, giving you quick access to your ideas, information, and everyday tasks.
+  </strong>
+</p>
 
 It is designed to be simple and practical, with customizable note card appearance, adjustable text size, and support for both Arabic and English.
 
